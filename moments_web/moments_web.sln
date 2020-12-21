@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moments_web", "moments_web\moments_web.csproj", "{E2E4B644-3C6D-47F7-8ECC-A8834A73C614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moments_web.Tests", "moments_web.Tests\moments_web.Tests.csproj", "{F67B1CA5-9335-405E-ACC8-4DC9F378DACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E4B644-3C6D-47F7-8ECC-A8834A73C614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E4B644-3C6D-47F7-8ECC-A8834A73C614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E4B644-3C6D-47F7-8ECC-A8834A73C614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E4B644-3C6D-47F7-8ECC-A8834A73C614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67B1CA5-9335-405E-ACC8-4DC9F378DACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67B1CA5-9335-405E-ACC8-4DC9F378DACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67B1CA5-9335-405E-ACC8-4DC9F378DACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67B1CA5-9335-405E-ACC8-4DC9F378DACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2404AE60-F417-4D39-A7D6-4D4DFCC5CCF0}
+	EndGlobalSection
+EndGlobal
